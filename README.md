@@ -1,5 +1,5 @@
-````md
-# Guilherme Ferreira da Silva
+
+# 👨‍💻 Guilherme Ferreira da Silva
 
 ### `c0mum` • Back-end Developer in training • Cybersecurity enthusiast
 
@@ -14,7 +14,7 @@
 
 ---
 
-##  Sobre mim
+## 🧑‍💻 Sobre mim
 
 Olá! Eu sou **Guilherme Ferreira da Silva**, estudante de **Análise e Desenvolvimento de Sistemas**.
 
@@ -23,52 +23,52 @@ Atualmente estou direcionando meus estudos para **desenvolvimento Back-end e Cib
 Gosto de entender não apenas como uma aplicação funciona, mas também **como ela pode ser construída de forma segura**.
 
 ```text
- ADS
- Back-end Development
- Java
- Python
- Cybersecurity
- Linux
- SQL
- Networking
+🎓 ADS
+💻 Back-end Development
+☕ Java
+🐍 Python
+🔐 Cybersecurity
+🐧 Linux
+🗄️ SQL
+🌐 Networking
 ````
 
 ---
 
-##  Atualmente estudando
+## 🚀 Atualmente estudando
 
-*  Java
-*  Python
-*  Linux
-*  Fundamentos de Cibersegurança
-*  Redes de computadores
-*  SQL e bancos de dados
-*  Estruturas de dados e algoritmos
-*  Git e GitHub
+* ☕ Java
+* 🐍 Python
+* 🐧 Linux
+* 🔐 Fundamentos de Cibersegurança
+* 🌐 Redes de computadores
+* 🗄️ SQL e bancos de dados
+* 🧠 Estruturas de dados e algoritmos
+* 🔧 Git e GitHub
 
 ---
 
-##  Tecnologias
+## 🛠️ Tecnologias
 
-###  Linguagens
+### 💻 Linguagens
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,js,php,cs" />
 </p>
 
-###  Web
+### 🌐 Web
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-###  Banco de Dados
+### 🗄️ Banco de Dados
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
-###  Sistemas & Ferramentas
+### 🐧 Sistemas & Ferramentas
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
@@ -76,30 +76,30 @@ Gosto de entender não apenas como uma aplicação funciona, mas também **como 
 
 ---
 
-##  Cybersecurity
+## 🔐 Cybersecurity
 
 Meu objetivo é desenvolver conhecimentos em segurança da informação enquanto avanço no desenvolvimento de software.
 
 ### Áreas que estou estudando:
 
 ```text
-├──  Linux
-├──  Networking
-├──  Segurança Web
-├──  Autenticação & Autorização
-├──  Security Labs
-├──  Python para automação
-├──  Segurança em aplicações Java
-└──  Boas práticas de desenvolvimento seguro
+├── 🐧 Linux
+├── 🌐 Networking
+├── 🔒 Segurança Web
+├── 🔑 Autenticação & Autorização
+├── 🧪 Security Labs
+├── 🐍 Python para automação
+├── ☕ Segurança em aplicações Java
+└── 🛡️ Boas práticas de desenvolvimento seguro
 ```
 
 > Todos os estudos e testes de segurança são realizados em ambientes próprios, laboratórios ou plataformas autorizadas.
 
 ---
 
-##  Projetos em destaque
+## 🚀 Projetos em destaque
 
-###  c0mum-tech
+### 🛒 c0mum-tech
 
 E-commerce desenvolvido para venda de periféricos gamers.
 
@@ -116,9 +116,9 @@ E-commerce desenvolvido para venda de periféricos gamers.
 
 ---
 
-###  Python Security Tools
+### 🐍 Python Security Tools
 
->  Em desenvolvimento
+> 🚧 Em desenvolvimento
 
 Coleção de pequenos projetos e ferramentas desenvolvidas em Python para estudos de programação, redes e segurança.
 
@@ -128,9 +128,9 @@ Coleção de pequenos projetos e ferramentas desenvolvidas em Python para estudo
 
 ---
 
-###  Java Back-end Projects
+### ☕ Java Back-end Projects
 
->  Em desenvolvimento
+> 🚧 Em desenvolvimento
 
 Projetos desenvolvidos durante meus estudos de Java, com foco em programação orientada a objetos, APIs, banco de dados e desenvolvimento Back-end.
 
@@ -140,9 +140,9 @@ Projetos desenvolvidos durante meus estudos de Java, com foco em programação o
 
 ---
 
-Cybersecurity Labs
+### 🔐 Cybersecurity Labs
 
->  Em desenvolvimento
+> 🚧 Em desenvolvimento
 
 Repositório dedicado aos meus estudos práticos de Cibersegurança.
 
@@ -158,7 +158,7 @@ Security Fundamentals
 
 ---
 
-GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=c0mum&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
@@ -167,7 +167,7 @@ GitHub Stats
 
 ---
 
-GitHub Streak
+## 📈 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=c0mum&theme=dark&hide_border=true" />
@@ -175,7 +175,7 @@ GitHub Streak
 
 ---
 
-Objetivos
+## 🎯 Objetivos
 
 ```text
 ☑️ Aprender Java
