@@ -26,6 +26,7 @@ Gosto de entender não apenas como uma aplicação funciona, mas também **como 
 🎓 ADS
 💻 Back-end Development
 ☕ Java
+🐘 PHP
 🐍 Python
 🔐 Cybersecurity
 🐧 Linux
@@ -36,7 +37,7 @@ Gosto de entender não apenas como uma aplicação funciona, mas também **como 
 ---
 
 ## 🚀 Atualmente estudando
-
+* 🐘 PHP
 * ☕ Java
 * 🐍 Python
 * 🐧 Linux
@@ -89,6 +90,7 @@ Meu objetivo é desenvolver conhecimentos em segurança da informação enquanto
 ├── 🔑 Autenticação & Autorização
 ├── 🧪 Security Labs
 ├── 🐍 Python para automação
+├── 🐘 PHP para web
 ├── ☕ Segurança em aplicações Java
 └── 🛡️ Boas práticas de desenvolvimento seguro
 ```
@@ -113,49 +115,7 @@ E-commerce desenvolvido para venda de periféricos gamers.
 * LocalStorage
 * Interface responsiva
 * Organização de produtos
-
----
-
-### 🐍 Python Security Tools
-
-> 🚧 Em desenvolvimento
-
-Coleção de pequenos projetos e ferramentas desenvolvidas em Python para estudos de programação, redes e segurança.
-
-**Tecnologias:**
-
-`Python` `Linux` `Networking`
-
----
-
-### ☕ Java Back-end Projects
-
-> 🚧 Em desenvolvimento
-
-Projetos desenvolvidos durante meus estudos de Java, com foco em programação orientada a objetos, APIs, banco de dados e desenvolvimento Back-end.
-
-**Tecnologias:**
-
-`Java` `SQL` `REST API` `Spring Boot`
-
----
-
-### 🔐 Cybersecurity Labs
-
-> 🚧 Em desenvolvimento
-
-Repositório dedicado aos meus estudos práticos de Cibersegurança.
-
-```text
-Linux
-Networking
-Web Security
-Authentication
-Cryptography
-Python
-Security Fundamentals
-```
-
+* 
 ---
 
 ## 📊 GitHub Stats
@@ -175,23 +135,6 @@ Security Fundamentals
 
 ---
 
-## 🎯 Objetivos
-
-```text
-☑️ Aprender Java
-☑️ Aprender Python
-⬜ Aprofundar conhecimentos em Linux
-⬜ Aprender Spring Boot
-⬜ Desenvolver APIs REST
-⬜ Aprofundar SQL
-⬜ Estudar Redes
-⬜ Praticar Cibersegurança
-⬜ Criar projetos maiores
-⬜ Construir experiência profissional em Back-end
-```
-
----
-
 ## 📚 Minha jornada
 
 ```text
@@ -201,6 +144,7 @@ ADS
  │      │
  │      ├── ☕ Java
  │      └── 🐍 Python
+ |      ├── 🐘 PHP
  │
  ├── 🗄️ Banco de Dados
  │      │
@@ -236,7 +180,4 @@ ADS
   <i>"Code. Learn. Build. Secure."</i>
 </p>
 
-<p align="center">
-  <sub>Construindo conhecimento, um projeto de cada vez.</sub>
-</p>
 ```
